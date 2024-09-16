@@ -1,14 +1,9 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    
     <p>Please fill in this form to create an account.</p>
     <hr>
-     <label for="Name"><b>Enter age</b></label> <br> <br>
-    <input type="text" placeholder="Enter Full age" name="age" id="Name" required><br>
-    <br>
-
-   <label for="DOB"><b>Enter DOB</b></label> <br> <br>
+    <label for="DOB"><b>Enter DOB</b></label> <br> <br>
     <input type="text" placeholder="Enter Full DOB" name="DOB" id="DOB" required><br>
     <br>
 
