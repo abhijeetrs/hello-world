@@ -6,7 +6,7 @@
     <label for="DOB"><b>Enter DOB</b></label> <br> <br>
     <input type="text" placeholder="Enter Full DOB" name="DOB" id="DOB" required><br>
     <br>
-
+     <h2>Abhijeet Khatavkar<h2>
     <label for="Name"><b>Enter Name</b></label> <br> <br>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required><br>
     <br>
